@@ -1,1 +1,1 @@
-# Obespechenie-kachestva-functionirovaniya-computernih-sistem--Kutenkov-IS221
+# Обеспечение качества функционирования компьютерных систем -Кутенков ИС221
